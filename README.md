@@ -2,7 +2,7 @@
 USE O JAVASCRIPT PARA TRANSFORMAR SEU TEXTO EM UPPER.
 
 ## 🤖Veja rodando ao vivo:
-Veja como ficou, clicando: [AQUI!](https://cauathiago.github.io/PROJETOS/PROJETOS/PROJETO-TEXTO-UPPER/index.html)
+Veja como ficou, clicando: [AQUI!](https://github.com/Cauathiago/projeto-texto-UPPER)
 
 
 <img src="https://ouch-cdn2.icons8.com/ARZ-aatZYjcr-8M6f6k52IcRpklZsFmEuibiWtetI_w/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTU2/LzczNjdmMjgyLTgw/ZGUtNDUyNy04YThj/LTRmMmFiNTNkNTI0/Zi5zdmc.png" align="center" width="250"> <br>
